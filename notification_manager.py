@@ -3,8 +3,8 @@ import os
 from twilio.rest import Client
 
 
-MY_EMAIL="manhaas1820@gmail.com"
-MY_EMAIL_PASSWORD="Soni@1820"
+MY_EMAIL="Your mail"
+MY_EMAIL_PASSWORD="app password for google mail"
 class NotificationManager:
 
     def __init__(self):
